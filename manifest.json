@@ -1,0 +1,11 @@
+{
+    "name": "telegram send message",
+    "version": "1.0.0",
+    "description": "send message to telegram",
+    "manifest_version": 3,
+    "author": "https://t.me/garriMal",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "telegram send message"
+    }
+}
